@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/onnoshomoy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for OnnoShomoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/onnoshomoy/) |
+| **Get License** | [Music Rights & Licensing for OnnoShomoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/onnoshomoy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে মিশে আছে আমার প্রেমের ছায়া
+> বিষন্ন এই মনের মাঝে তীব্র তোমার মায়া
+> শীতল রাতে পুড়ছে হৃদয় এই বিরহের জ্বরে
+> একলা আমি খুঁজছি তোমায় আমার শূন্য ঘরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
