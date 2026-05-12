@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/onnoshomoy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for OnnoShomoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/onnoshomoy/) |
+| **Get License** | [Official Music Licensing for OnnoShomoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/onnoshomoy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `84cd059b2a4d47faa3f3a5d567cc383a8bc0645357de3fded35784dbe3be02fc` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

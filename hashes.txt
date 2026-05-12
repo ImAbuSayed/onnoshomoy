@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - OnnoShomoy
+
+This log tracks the cryptographic history and versioning for the song **OnnoShomoy** (onnoshomoy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T05:42:25.187984 | `v1` | `84cd059b2a4d47faa3f3a5d567cc383a8bc0645357de3fded35784dbe3be02fc` | `4f232deea6688c037ba8197cc763d04306cc0a192415ef59b3ea6693b49cbc1d` | `2026-05-13_onnoshomoy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
